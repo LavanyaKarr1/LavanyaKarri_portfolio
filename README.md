@@ -1,2 +1,1 @@
-# LavanyaKarri_portfolio
-Personal Portfolio
+# lavanyakarri
